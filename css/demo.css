@@ -192,7 +192,7 @@ a:focus {
 	grid-row: 1 / 3;
 	opacity: 0.97;
 	/* width: 500px; */
-	height: 500px;
+	height: 650px;
 }
 
 .content__title {
@@ -411,7 +411,7 @@ a:focus {
 
 /* Demo themes */
 .demo-2 {
-	--background-color: #1d1b22;
+	--background-color: #1f1f1f;
 	--background-color-2: #342560;
 	--background-color-3: #553e9a;
 	--text-color: #fff;
